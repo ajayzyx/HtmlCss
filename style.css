@@ -6,5 +6,8 @@ button{
 }
 p{
     text-align: center;
-    text-decoration: line-through;
+    text-decoration: green wavy underline;
+}
+a{
+    text-decoration: none;
 }
