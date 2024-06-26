@@ -3,11 +3,12 @@ button{
 }
 .heading{
     text-align : start;
+    text-decoration: dotted;
 }
 p{
     text-align: center;
-    text-decoration: green wavy underline;
+    text-decoration: green underline;
 }
 a{
-    text-decoration: none;
+    text-decoration: blue overline;
 }
